@@ -1,11 +1,11 @@
 {
-  "version": "0.1.3",
-  "notes": "Connect your computers with nothing to type",
-  "pub_date": "2026-11-26T04:00:00.000Z",
+  "version": "0.1.4",
+  "notes": "Fixes connecting your computers for lifetime plans",
+  "pub_date": "2026-11-26T15:00:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFd3ZkdwYlNBNko2K2NzZDdoUFZtVnk5VFdUTE80eGQ4MEV0ZlphdG9tNUt5SnZaS3lZZWtqTFhPeG5Bb2IxRXpVMTY3UUVzL1dvV0loUmFZdFR2RlNEVkhhaDJlOUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjY3OTQ2CWZpbGU6VW5kZXJnbG93XzAuMS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMwppbzlzN3FwYldFbHRwWFNTK2s5ZHlRWkJFWFh5TEE2OE56L3Q1R25jb0I3ajVCQnNta0VBeVlPdWdFdDRNUmVJUWh0M01scVgvV2FTeU8vRFozaEpCZz09Cg==",
-      "url": "https://github.com/Underglow-Dev/underglow-releases/releases/download/v0.1.3/Underglow_0.1.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFd3ZkdwYlNBNkFQS29vWEZJR1dTTk1qakYyMmU3YnNZMHJ1cE40T1U0Ym1jTVVseXBxRWdmcTNON0UvRnlSNnRPd0w2OU1rTEFBQlZkVjlUa1B5YlozUnhCYkJpT3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzAzMzQyCWZpbGU6VW5kZXJnbG93XzAuMS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNApVTU9sMmNVanJ2Nm5KZHV4RzVQWjJKVzhPekdDOGVHTTFyMkFVd3dHYk1KcytQc3E4SGcwSm5iamQ0RUVUemxKRm9ZUmpXdGd6SDI4SGx2ZXl4SldBQT09Cg==",
+      "url": "https://github.com/Underglow-Dev/underglow-releases/releases/download/v0.1.4/Underglow_0.1.4_x64-setup.exe"
     }
   }
 }
