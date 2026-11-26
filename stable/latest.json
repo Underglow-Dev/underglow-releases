@@ -1,11 +1,11 @@
 {
-  "version": "0.1.5",
-  "notes": "A connected computer now shows and controls your main computer live; a full-screen choice for new computers",
-  "pub_date": "2026-11-26T18:00:00.000Z",
+  "version": "0.1.6",
+  "notes": "More reliable agents: restart in one click, the reason shown when one ends, nothing lost on reconnect; one shared board across your computers; pages are folders; a Home page",
+  "pub_date": "2026-11-26T19:14:01.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFd3ZkdwYlNBNkU2RTc1Mnd6Q0U5cnREV1J5UnhDaVU2ZjI5QW9XVmQ5dkVvS2VaLzA2Tk1uSk4xNU4weUxuVGUxY0o3MWo4ZzV5MGwrM2k1ZVN3aHdpZ0ZsMHNHaEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA0OTA3CWZpbGU6VW5kZXJnbG93XzAuMS41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNQpyN1VORXNDNWJPbXA0VEE1eURPQVpwbjV6QWVSQW81WmNIZnBZZE5PU0luSmdmcHpIcGF2VmRTejIzZWpOcjlqRGFsc1lEL0cvUmRqaXhINFR5T21EUT09Cg==",
-      "url": "https://github.com/Underglow-Dev/underglow-releases/releases/download/v0.1.5/Underglow_0.1.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFd3ZkdwYlNBNkNtdDVrY082b3Jxa3o3dDg4YlpGOGhwK1Bpc2FodWRUTURva1cyNlZMQUpwWmRqMWpVWmhsTHQvcjdrTzZXdjNFVzJpVHJuNFJBWFkxazFaQ1RNamdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzIwNDMzCWZpbGU6VW5kZXJnbG93XzAuMS42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNgpJdXJvS1VLVXBtNk92Ymt1Szl4M0tuWUYzQ1V2WExNT0JxT1g0TGM3aW14bktIMlJkRExwejRYQkk1OFZQTXYrdm1MaU8vZFZJL201YXRoMndFaFpCZz09Cg==",
+      "url": "https://github.com/Underglow-Dev/underglow-releases/releases/download/v0.1.6/Underglow_0.1.6_x64-setup.exe"
     }
   }
 }
