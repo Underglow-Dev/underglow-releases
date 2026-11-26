@@ -1,0 +1,11 @@
+{
+  "version": "0.1.3",
+  "notes": "Connect your computers with nothing to type",
+  "pub_date": "2026-11-26T04:00:00.000Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFd3ZkdwYlNBNko2K2NzZDdoUFZtVnk5VFdUTE80eGQ4MEV0ZlphdG9tNUt5SnZaS3lZZWtqTFhPeG5Bb2IxRXpVMTY3UUVzL1dvV0loUmFZdFR2RlNEVkhhaDJlOUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjY3OTQ2CWZpbGU6VW5kZXJnbG93XzAuMS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMwppbzlzN3FwYldFbHRwWFNTK2s5ZHlRWkJFWFh5TEE2OE56L3Q1R25jb0I3ajVCQnNta0VBeVlPdWdFdDRNUmVJUWh0M01scVgvV2FTeU8vRFozaEpCZz09Cg==",
+      "url": "https://github.com/Underglow-Dev/underglow-releases/releases/download/v0.1.3/Underglow_0.1.3_x64-setup.exe"
+    }
+  }
+}
