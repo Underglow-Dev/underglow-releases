@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "Fixes connecting your computers for lifetime plans",
-  "pub_date": "2026-11-26T15:00:00.000Z",
+  "version": "0.1.5",
+  "notes": "A connected computer now shows and controls your main computer live; a full-screen choice for new computers",
+  "pub_date": "2026-11-26T18:00:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFd3ZkdwYlNBNkFQS29vWEZJR1dTTk1qakYyMmU3YnNZMHJ1cE40T1U0Ym1jTVVseXBxRWdmcTNON0UvRnlSNnRPd0w2OU1rTEFBQlZkVjlUa1B5YlozUnhCYkJpT3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzAzMzQyCWZpbGU6VW5kZXJnbG93XzAuMS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNApVTU9sMmNVanJ2Nm5KZHV4RzVQWjJKVzhPekdDOGVHTTFyMkFVd3dHYk1KcytQc3E4SGcwSm5iamQ0RUVUemxKRm9ZUmpXdGd6SDI4SGx2ZXl4SldBQT09Cg==",
-      "url": "https://github.com/Underglow-Dev/underglow-releases/releases/download/v0.1.4/Underglow_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFd3ZkdwYlNBNkU2RTc1Mnd6Q0U5cnREV1J5UnhDaVU2ZjI5QW9XVmQ5dkVvS2VaLzA2Tk1uSk4xNU4weUxuVGUxY0o3MWo4ZzV5MGwrM2k1ZVN3aHdpZ0ZsMHNHaEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA0OTA3CWZpbGU6VW5kZXJnbG93XzAuMS41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNQpyN1VORXNDNWJPbXA0VEE1eURPQVpwbjV6QWVSQW81WmNIZnBZZE5PU0luSmdmcHpIcGF2VmRTejIzZWpOcjlqRGFsc1lEL0cvUmRqaXhINFR5T21EUT09Cg==",
+      "url": "https://github.com/Underglow-Dev/underglow-releases/releases/download/v0.1.5/Underglow_0.1.5_x64-setup.exe"
     }
   }
 }
