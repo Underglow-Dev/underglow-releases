@@ -1,11 +1,11 @@
 {
-  "version": "0.1.7",
-  "notes": "First test copy",
-  "pub_date": "2026-11-27T01:40:32.675Z",
+  "version": "0.1.8",
+  "notes": "Page header: no more connected bubble",
+  "pub_date": "2026-11-27T01:56:15.553Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFd3ZkdwYlNBNkxIU1ZMeHpGeTNvMGxzbk9IR1dpYTlWMWE4cEZ3enptRXNCUzQ2dXpPN1pmbks2clUzYmRDQ3BCSGxwQURFVk43eVRlQ1d6a2lGN0JHd084cTJtSFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzQzNjMyCWZpbGU6VW5kZXJnbG93IFRlc3RfMC4xLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS43CnQrOCtQLzdQUHViYXRuTDVCamlzeHdHdU8vYXNib0VOamJSWXNQMkRsb0hGUjhjaXN4dEQ2N09LekwzaWx5U256czhhL25hd2tvdGhNRy8yR2laV0FRPT0K",
-      "url": "https://github.com/Underglow-Dev/underglow-releases/releases/download/test-v0.1.7/UnderglowTest_0.1.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFd3ZkdwYlNBNkpVNmNNRzVVcTgyZmZhNkx4eEZGNjBEWEVHMzhzczhEQjY4eHAwa21GQWlpMkU4Q1hNR09Gajh2aGRWUkhRd0g4YlJUZTN6ODV3N0VCSTN3S1pRa2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzQ0NTc0CWZpbGU6VW5kZXJnbG93IFRlc3RfMC4xLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS44CmJDZHphRFVNNVBMQ2xjR2M1NU1Td3Z3dXNCRFJ3Qld5Z0k2TkYzd0dRY25HU0VmL2ZCSTVWNUhCZ3Bud1R4TmUyeFlMeWsrdklWdElOaVI4WXRqRERnPT0K",
+      "url": "https://github.com/Underglow-Dev/underglow-releases/releases/download/test-v0.1.8/UnderglowTest_0.1.8_x64-setup.exe"
     }
   }
 }
