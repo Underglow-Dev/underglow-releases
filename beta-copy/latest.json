@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0-beta.1",
+  "notes": "First beta: hide connected bubble; Live/Beta/Test switch; test line with count",
+  "pub_date": "2026-11-27T02:58:02.540Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFd3ZkdwYlNBNkVlL3RWT200TDZ4RG02SU9kUWlzWkNuSStaTWtlK0tJdUl2S0xoNXI0NUtUWWdCeHN2Q1lxWCtzRnRZMWg3UFJuL21mRUZ0cDc2WVdiU05WRkp5bkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzQ4MjgxCWZpbGU6VW5kZXJnbG93IEJldGFfMC4yLjAtYmV0YS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMC1iZXRhLjEKdDc5KzJaczhwQ3UwYyt2dlpUYTkrejhBcnF0MEp0RW8vZXBtUjRiWXU1WWhHQ09iaXk3VWROZVRpbTdKTDBDbFQ4REttSXVxLzhoOG5ldUxQYjBQRFE9PQo=",
+      "url": "https://github.com/Underglow-Dev/underglow-releases/releases/download/v0.2.0-beta.1/UnderglowBeta_0.2.0-beta.1_x64-setup.exe"
+    }
+  }
+}
