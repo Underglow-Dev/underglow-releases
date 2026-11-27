@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
-  "notes": "More reliable agents: restart in one click, the reason shown when one ends, nothing lost on reconnect; one shared board across your computers; pages are folders; a Home page",
-  "pub_date": "2026-11-26T19:14:01.000Z",
+  "version": "0.1.7",
+  "notes": "Adds the test switch for the owner's account",
+  "pub_date": "2026-11-27T01:39:13.093Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFd3ZkdwYlNBNkNtdDVrY082b3Jxa3o3dDg4YlpGOGhwK1Bpc2FodWRUTURva1cyNlZMQUpwWmRqMWpVWmhsTHQvcjdrTzZXdjNFVzJpVHJuNFJBWFkxazFaQ1RNamdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzIwNDMzCWZpbGU6VW5kZXJnbG93XzAuMS42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNgpJdXJvS1VLVXBtNk92Ymt1Szl4M0tuWUYzQ1V2WExNT0JxT1g0TGM3aW14bktIMlJkRExwejRYQkk1OFZQTXYrdm1MaU8vZFZJL201YXRoMndFaFpCZz09Cg==",
-      "url": "https://github.com/Underglow-Dev/underglow-releases/releases/download/v0.1.6/Underglow_0.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFd3ZkdwYlNBNkFoS3BKYS96amg2ZmxBR0lIUHRnbWdCOHJPeVJHMkZ3TExaZjB5dWRwUDRKVGZOQlBtUWJucnZOYjlxaGpoQ2Zpc1dkWFNVZ3FvRGZMWndhaTk4dHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzQzNTUyCWZpbGU6VW5kZXJnbG93XzAuMS43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNwo4MGVBZk9taUFXd0p0dHYrN2hJWDdvTkU1dEw5R1NTc2djQjZ0WkhHem9RYUFNSmJiUUZkMnlOeTlXSGN4WURTSU9nTkR4d1ZCNWQybjZLSitmNkRDQT09Cg==",
+      "url": "https://github.com/Underglow-Dev/underglow-releases/releases/download/v0.1.7/Underglow_0.1.7_x64-setup.exe"
     }
   }
 }
