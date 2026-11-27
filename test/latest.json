@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8",
-  "notes": "Page header: no more connected bubble",
-  "pub_date": "2026-11-27T01:56:15.553Z",
+  "version": "0.2.0-test.1",
+  "notes": "Live/Beta/Test switch; new build numbers",
+  "pub_date": "2026-11-27T02:17:36.363Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFd3ZkdwYlNBNkpVNmNNRzVVcTgyZmZhNkx4eEZGNjBEWEVHMzhzczhEQjY4eHAwa21GQWlpMkU4Q1hNR09Gajh2aGRWUkhRd0g4YlJUZTN6ODV3N0VCSTN3S1pRa2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzQ0NTc0CWZpbGU6VW5kZXJnbG93IFRlc3RfMC4xLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS44CmJDZHphRFVNNVBMQ2xjR2M1NU1Td3Z3dXNCRFJ3Qld5Z0k2TkYzd0dRY25HU0VmL2ZCSTVWNUhCZ3Bud1R4TmUyeFlMeWsrdklWdElOaVI4WXRqRERnPT0K",
-      "url": "https://github.com/Underglow-Dev/underglow-releases/releases/download/test-v0.1.8/UnderglowTest_0.1.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFd3ZkdwYlNBNkROcEhlWElxVCttZHJqWWZZbDcrTUdwMUEwQzBuL0pPblFKbkNDN0l0NFJpKzF2MHlXYkZMVUljSk1KVXFpZEFGMjJBZTJDTFM0ZjI0U1pVTHo1a1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzQ1ODU1CWZpbGU6VW5kZXJnbG93IFRlc3RfMC4yLjAtdGVzdC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMC10ZXN0LjEKaE9DVC9XYTdPN3BGQktuTkJaMTAvcHJUSGxIZDhCbkc3bzJXdmlVdkdCa0IyeDU4ZWlQSGV6ODJJNFBKUTk2T284QmF1SXJSQ2laNzRzN2lXTFdoQ3c9PQo=",
+      "url": "https://github.com/Underglow-Dev/underglow-releases/releases/download/v0.2.0-test.1/UnderglowTest_0.2.0-test.1_x64-setup.exe"
     }
   }
 }
