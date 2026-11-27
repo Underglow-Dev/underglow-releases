@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-test.3",
-  "notes": "#5 Liquid glass agent tiles and a calmer terminal",
-  "pub_date": "2026-11-27T14:30:25.773Z",
+  "version": "0.2.0-test.4",
+  "notes": "#6 Animate dragging agents on the board",
+  "pub_date": "2026-11-27T14:43:04.588Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFd3ZkdwYlNBNkRrL1JxSTJSSzJOdEkxcW1vd2FyZ2JqNE1FYy9XbFAraEZlYzVkTVdLMmhuRFFReVI4ejJHRHVhQjR4OHNmanduMHdWK2xPWjgrbC95ZWJKd1pvV1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzg5ODI1CWZpbGU6VW5kZXJnbG93IFRlc3RfMC4yLjAtdGVzdC4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMC10ZXN0LjMKb3J2T1BweVVxQ2RSQ1B4WCttVzN5cm9kSVY0NC9TeXhJNVZ1UlRsdE93SkU4OHRpNlZZVmdBOGdZUXluSk8xQTU1YThVZlBXRTFXYXB3Y3lNR0UyRGc9PQo=",
-      "url": "https://github.com/Underglow-Dev/underglow-releases/releases/download/v0.2.0-test.3/UnderglowTest_0.2.0-test.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFd3ZkdwYlNBNk5EYlJzcVJVZXVvR2JxRzE1Nm5vWm5RU0srSU9zeWNzblYzSExucHRmWnZqbkV4eUdqRkYzTVZoVjdyRUlNZUNPWmF6WFc0OTQzTHRwbDl6N1l5V1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzkwNTgzCWZpbGU6VW5kZXJnbG93IFRlc3RfMC4yLjAtdGVzdC40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMC10ZXN0LjQKNUZJMTVCeWI1NHQ1SFNKME9ZbXBhbDdZWjBzdjNWUDNpMkRCWlAySkR6a0FCWkdDS01HL2ZZcndUekFGVEg5VG5vNWFtdytYNlpvTEo3aVNVZlJ3QXc9PQo=",
+      "url": "https://github.com/Underglow-Dev/underglow-releases/releases/download/v0.2.0-test.4/UnderglowTest_0.2.0-test.4_x64-setup.exe"
     }
   }
 }
