@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-test.1",
-  "notes": "Live/Beta/Test switch; new build numbers",
-  "pub_date": "2026-11-27T02:17:36.363Z",
+  "version": "0.2.0-test.2",
+  "notes": "#4 Test line: one change on test at a time, count on the Test button",
+  "pub_date": "2026-11-27T02:44:13.817Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFd3ZkdwYlNBNkROcEhlWElxVCttZHJqWWZZbDcrTUdwMUEwQzBuL0pPblFKbkNDN0l0NFJpKzF2MHlXYkZMVUljSk1KVXFpZEFGMjJBZTJDTFM0ZjI0U1pVTHo1a1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzQ1ODU1CWZpbGU6VW5kZXJnbG93IFRlc3RfMC4yLjAtdGVzdC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMC10ZXN0LjEKaE9DVC9XYTdPN3BGQktuTkJaMTAvcHJUSGxIZDhCbkc3bzJXdmlVdkdCa0IyeDU4ZWlQSGV6ODJJNFBKUTk2T284QmF1SXJSQ2laNzRzN2lXTFdoQ3c9PQo=",
-      "url": "https://github.com/Underglow-Dev/underglow-releases/releases/download/v0.2.0-test.1/UnderglowTest_0.2.0-test.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFd3ZkdwYlNBNkRBOXVYWjVzVlRhOGcwWkNmdHN4MWRqaW9HbFJCSWdpVklsRXlVbVkvNTltZzlVT2V3TVZsSEQ4bW1pYzJSQi9INUdXTFJTNjdHTTNISzlGVTBTS3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzQ3NDUzCWZpbGU6VW5kZXJnbG93IFRlc3RfMC4yLjAtdGVzdC4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMC10ZXN0LjIKZTlDVjFaTVhpRHVTeThTMllpTlNRc05NMEo4WDlXaW1ZQ3RqWWtuOWErMDYwMGpZY05lTm1Zd3UxTnBxM1pFL2tSck10YlJ4OGVGS0pFRXpTY2Q1REE9PQo=",
+      "url": "https://github.com/Underglow-Dev/underglow-releases/releases/download/v0.2.0-test.2/UnderglowTest_0.2.0-test.2_x64-setup.exe"
     }
   }
 }
