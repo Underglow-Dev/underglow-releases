@@ -1,6 +1,4 @@
 {
-  "on_test": null,
-  "waiting": [
-    5
-  ]
+  "on_test": 5,
+  "waiting": []
 }
